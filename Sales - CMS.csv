@@ -636,8 +636,8 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;SPS Advogados;Sponsor;Silver;Fernando Maquez;3150;0,9;3500;Europa;ASSET MANAGEMENT;2019
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;Intrum;Sponsor;Platinum;Ignacio Vilarroig;3500;0,9;3889;Europa;ASSET MANAGEMENT;2019
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;Prime Yield;Tickets;Tickets;Karina Casal;496;0,9;551;Europa;ASSET MANAGEMENT;2019
-8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;SLCM // Serra Lopes, Cortes Martins & Associados;Tickets;Tickets;Karina Casal;496;0,9;1102;Europa;ASSET MANAGEMENT;2019
-8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;PLMJ Advogados SP, RL;Tickets;Tickets;Karina Casal;496;0,9;551;Europa;ASSET MANAGEMENT;2019
+8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;SLCM //;Tickets;Tickets;Karina Casal;496;0,9;1102;Europa;ASSET MANAGEMENT;2019
+8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;PLMJ Advogados SP RL;Tickets;Tickets;Karina Casal;496;0,9;551;Europa;ASSET MANAGEMENT;2019
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;CMS - RPA;Tickets;Tickets;Karina Casal;620;0,9;1378;Europa;ASSET MANAGEMENT;2019
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;Copernicus;Tickets;Tickets;Karina Casal;620;0,9;689;Europa;ASSET MANAGEMENT;2019
 8;Eur - NPL + SIC Forum Lisboa;1/6/2019;;NPL Portugal;LEME FINANCE;Tickets;Tickets;Karina Casal;186;0,9;207;Europa;ASSET MANAGEMENT;2019
@@ -800,7 +800,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;DBRS;Tickets;Tickets;Fernando Maquez;544;0,9;604;Europa;ASSET MANAGEMENT;2019
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Asemar;Tickets;Tickets;Fernando Maquez;476;0,9;1058;Europa;ASSET MANAGEMENT;2019
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Intralinks;Tickets;Tickets;Fernando Maquez;476;0,9;1058;Europa;ASSET MANAGEMENT;2019
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Silex Real Estate, S.L.;Tickets;Tickets;Fernando Maquez;680;0,9;1511;Europa;ASSET MANAGEMENT;2019
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Silex Real Estate S.L.;Tickets;Tickets;Fernando Maquez;680;0,9;1511;Europa;ASSET MANAGEMENT;2019
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Inconcert (telecontact);Tickets;Tickets;Fernando Maquez;476;0,9;529;Europa;ASSET MANAGEMENT;2019
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Hispania Asset Management;Tickets;Tickets;Fernando Maquez;476;0,9;1058;Europa;ASSET MANAGEMENT;2019
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/6/2019;;NPL España;Corporación Legal;Tickets;Tickets;Fernando Maquez;476;0,9;1058;Europa;ASSET MANAGEMENT;2019
@@ -1153,7 +1153,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 27;Lat - Argentina Fintech Forum;4/11/2019;B0000200000216;Argentina - Fintech Forum 2019;ANA TABANERA;Tickets;Tickets;Rodrigo Rotunno;2066;63,5;33;Latam;FINTECH;2019
 27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001153;Argentina - Fintech Forum 2019;GLUE CONSULTING SRL;Sponsor;Apoyo Comercial;Rodrigo Rotunno;20000;63,5;315;Latam;FINTECH;2019
 27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001154;Argentina - Fintech Forum 2019;BITEX DFS SA;Sponsor;Diamond;Rodrigo Rotunno;220028;63,5;3465;Latam;FINTECH;2019
-27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001155;Argentina - Fintech Forum 2019;8A MARKETING, COMUNICACIÓN Y D S.;Sponsor;Gold;Rodrigo Rotunno;50000;63,5;787;Latam;FINTECH;2019
+27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001155;Argentina - Fintech Forum 2019;8A MARKETING COMUNICACIÓN Y D S.;Sponsor;Gold;Rodrigo Rotunno;50000;63,5;787;Latam;FINTECH;2019
 27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001156;Argentina - Fintech Forum 2019;BECLEVER SA;Sponsor;Apoyo Comercial;Rodrigo Rotunno;50000;63,5;787;Latam;FINTECH;2019
 27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001157;Argentina - Fintech Forum 2019;UNINVERC SA;Tickets;Tickets;Rodrigo Rotunno;2066;63,5;33;Latam;FINTECH;2019
 27;Lat - Argentina Fintech Forum;6/11/2019;A0000200001158;Argentina - Fintech Forum 2019;UNINVERC SA;Tickets;Tickets;Rodrigo Rotunno;2066;63,5;33;Latam;FINTECH;2019
@@ -1592,7 +1592,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 29;Lat - Financial Innovation Peru;28/8/2019;E001 - 083;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;CORPORACION DE SERVICIOS GR S.A.;Tickets;Tickets;Rodrigo Rotunno;254;1;254;Latam;Banking;2019
 29;Lat - Financial Innovation Peru;3/9/2019;E001 - 084;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;ADMINISTRADORA JOCKEY PLAZA SHOPPING CENTER SA;Tickets;Tickets;Rodrigo Rotunno;1031;1;1031;Latam;Banking;2019
 29;Lat - Financial Innovation Peru;4/9/2019;E001 - 085;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;COOPERATIVA DE AHORRO Y CREDITO AELU;Tickets;Tickets;Rodrigo Rotunno;381;1;381;Latam;Banking;2019
-29;Lat - Financial Innovation Peru;11/9/2019;E001 - 086;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;KONECTA BTO, S.L. SUCURSAL EN PERU;Tickets;Tickets;Rodrigo Rotunno;1144;1;1144;Latam;Banking;2019
+29;Lat - Financial Innovation Peru;11/9/2019;E001 - 086;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;KONECTA BTO S.L. SUCURSAL EN PERU;Tickets;Tickets;Rodrigo Rotunno;1144;1;1144;Latam;Banking;2019
 29;Lat - Financial Innovation Peru;23/9/2019;E001 - 087;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;CONECTA CMS SA;Tickets;Tickets;Rodrigo Rotunno;686;1;686;Latam;Banking;2019
 29;Lat - Financial Innovation Peru;25/9/2019;NC E001-010;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;CONECTA CMS SA;Tickets;Tickets;Rodrigo Rotunno;-686;1;-686;Latam;Banking;2019
 29;Lat - Financial Innovation Peru;25/9/2019;E001 - 088;Perú - 14º Congreso Nacional de Crédito y Cobranzas.;EQUIFAX PERU S.A.;Sponsor;Platinum;Rodrigo Rotunno;5000;1;5000;Latam;Banking;2019
@@ -1791,7 +1791,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 46;Bra - B2B Credit Forum;1/4/2020;No se factura.;Brasil - B2B Credit Forum 2020;CARREFOUR;Pases;Pases;Madleine Sprocatti;350;5,7718;61;Brasil;Banking;2020
 24;Lat - Fin & Pay;1/4/2020;NCA00002-00000170;Argentina - Fin & Pay 2020;Nosis Laboratorio S.A.;Sponsor;Gold;OTRO;-33333;64;-521;Latam;Banking;2020
 24;Lat - Fin & Pay;1/4/2020;NCA00002-00000169;Argentina - Fin & Pay 2020;Nosis Laboratorio S.A.;Sponsor;Gold;OTRO;-33333;64;-521;Latam;Banking;2020
-24;Lat - Fin & Pay;3/8/2020;A0002-00001346;Argentina - Fin & Pay 2020;8A MARKETING, COMUNICACIÓN Y D S. SRL;Sponsor;Diamond;OTRO;320250;76,25;4200;Latam;Banking;2020
+24;Lat - Fin & Pay;3/8/2020;A0002-00001346;Argentina - Fin & Pay 2020;8A MARKETING COMUNICACIÓN Y D S. SRL;Sponsor;Diamond;OTRO;320250;76,25;4200;Latam;Banking;2020
 24;Lat - Fin & Pay;1/4/2020;A0002-00001333;Argentina - Fin & Pay 2020;Nosis Laboratorio S.A.;Sponsor;Gold;OTRO;33333;64;521;Latam;Banking;2020
 24;Lat - Fin & Pay;5/3/2020;A0000200001303;Argentina - Fin & Pay 2020;Nosis Laboratorio S.A.;Sponsor;Gold;OTRO;33333;64;521;Latam;Banking;2020
 24;Lat - Fin & Pay;30/1/2020;A0000200001273;Argentina - Fin & Pay 2020;VU SECURITY SA;Sponsor;Platinum;OTRO;281250;63;4464;Latam;Banking;2020
@@ -2123,8 +2123,8 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 32;Lat - Webinars Particulares;6/5/2020;A0002-00001335;Open Talks Webinars - Particulares;RODOLFO MULLER;Pases;PAQUETE - 6 MÓDULOS;OTRO;9091;68,75;132;Latam;Banking;2020
 32;Lat - Webinars Particulares;6/5/2020;A0002-00001334;Open Talks Webinars - Particulares;SOLVENTA SAS;Pases;PAQUETE - 1 MÓDULO;OTRO;2102;68,75;31;Latam;Banking;2020
 32;Lat - Webinars Particulares;26/5/2020;4309;Open Talks Webinars - Particulares;EMAILAGE;Sponsor;Diamond;OTRO;13099;1;13099;Latam;Banking;2020
-2;Eur - Recupero Judicial;3/3/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;Libroley, Abogados y Recuperaciones;Sponsors;Silver;Fernando Maquez;1260;0,9;1400;Europa;Banking;2020
-5;Eur - España C&C;30/11/2020;;2020 - España - 12º Congreso Nacional de Crédito;Palmera Gestión 97, S.L.;Tickets;Ticket General Pass;Karina Casal;445;0,9;494;Europa;Banking;2020
+2;Eur - Recupero Judicial;3/3/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;Libroley Abogados y Recuperaciones;Sponsors;Silver;Fernando Maquez;1260;0,9;1400;Europa;Banking;2020
+5;Eur - España C&C;30/11/2020;;2020 - España - 12º Congreso Nacional de Crédito;Palmera Gestión 97 S.L.;Tickets;Ticket General Pass;Karina Casal;445;0,9;494;Europa;Banking;2020
 2;Eur - Recupero Judicial;3/3/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;IGG - SAD International Group Gestion Servicios de Apoyo al Derecho SL;Sponsors;Silver;Fernando Maquez;2170;0,9;2411;Europa;Banking;2020
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);4/3/2020;;2020 - España - 6º CMS NPL Iberian Forum;IGG - SAD International Group Gestion Servicios de Apoyo al Derecho SL;Sponsors;Silver;Fernando Maquez;2940;0,9;3267;Europa;ASSET MANAGEMENT;2020
 5;Eur - España C&C;6/3/2020;;2020 - España - 12º Congreso Nacional de Crédito;IGG - SAD International Group Gestion Servicios de Apoyo al Derecho SL;Sponsors;Gold;Fernando Maquez;5040;0,9;5600;Europa;Banking;2020
@@ -2166,9 +2166,9 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 9;Eur - SIC - SERVICING INMOBILIARIO;2/11/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;Básico Homes - Básico Real Estate;Tickets;Ticket Digital Pass SIC;Karina Casal;380;0,9;422;Europa;ASSET MANAGEMENT;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;2/11/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;Básico Homes - Básico Real Estate;Tickets;Ticket SIC Digital Pass;Karina Casal;380;0,9;422;Europa;ASSET MANAGEMENT;2020
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);3/12/2020;;2020 - España - 6º CMS NPL Iberian Forum;BMG - Bufet Miralbell Guerin;Tickets;Ticket 20 % Descuento;Karina Casal;1088;0,9;1209;Europa;ASSET MANAGEMENT;2020
-2;Eur - Recupero Judicial;31/3/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsors;Silver;Fernando Maquez;1860;0,9;2067;Europa;Banking;2020
-5;Eur - España C&C;3/4/2020;;2020 - España - 12º Congreso Nacional de Crédito;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsors;Silver;Fernando Maquez;3150;0,9;3500;Europa;Banking;2020
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);31/3/2020;;2020 - España - 6º CMS NPL Iberian Forum;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsors;Silver;Fernando Maquez;2520;0,9;2800;Europa;ASSET MANAGEMENT;2020
+2;Eur - Recupero Judicial;31/3/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsors;Silver;Fernando Maquez;1860;0,9;2067;Europa;Banking;2020
+5;Eur - España C&C;3/4/2020;;2020 - España - 12º Congreso Nacional de Crédito;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsors;Silver;Fernando Maquez;3150;0,9;3500;Europa;Banking;2020
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);31/3/2020;;2020 - España - 6º CMS NPL Iberian Forum;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsors;Silver;Fernando Maquez;2520;0,9;2800;Europa;ASSET MANAGEMENT;2020
 3;Eur - Woman In Credit;2/3/2020;;2020 - España - 1º CMS Women in Credit Summit;Cabot Financial España;Sponsors;EMPOWERING WOMEN;Ignacio Vilarroig;1500;0,9;1667;Europa;Banking;2020
 5;Eur - España C&C;6/3/2020;;2020 - España - 12º Congreso Nacional de Crédito;Cabot Financial España;Sponsors;GOLD;Ignacio Vilarroig;5880;0,9;6533;Europa;Banking;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;25/9/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;CASER Seguros;Sponsors;Silver;Ignacio Vilarroig;3430;0,9;3811;Europa;ASSET MANAGEMENT;2020
@@ -2199,8 +2199,8 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;6/3/2020;;2020 - España - 12º Congreso Nacional de Crédito;EVICERTIA - Evidencias Certificadas;Sponsors;Gold;Fernando Maquez;5040;0,9;5600;Europa;Banking;2020
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);4/3/2020;;2020 - España - 6º CMS NPL Iberian Forum;EVICERTIA - Evidencias Certificadas;Sponsors;Gold;Fernando Maquez;3600;0,9;4000;Europa;ASSET MANAGEMENT;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;31/3/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;EVICERTIA - Evidencias Certificadas;Sponsors;Gold;Fernando Maquez;3500;0,9;3889;Europa;ASSET MANAGEMENT;2020
-1;Eur - IFC;10/3/2020;;2020 - España - 2º CMS Innovation Finance Congress;Experian España, S.L.U.;Sponsors;GOLD;Fernando Maquez;3500;0,9;3889;Europa;IFC;2020
-5;Eur - España C&C;10/3/2020;;2020 - España - 12º Congreso Nacional de Crédito;Experian España, S.L.U.;Sponsors;Gold;Fernando Maquez;3000;0,9;3333;Europa;Banking;2020
+1;Eur - IFC;10/3/2020;;2020 - España - 2º CMS Innovation Finance Congress;Experian España S.L.U.;Sponsors;GOLD;Fernando Maquez;3500;0,9;3889;Europa;IFC;2020
+5;Eur - España C&C;10/3/2020;;2020 - España - 12º Congreso Nacional de Crédito;Experian España S.L.U.;Sponsors;Gold;Fernando Maquez;3000;0,9;3333;Europa;Banking;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;2/11/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;Expovivienda Inmobiliaria;Tickets;Ticket Digital Pass SIC;Karina Casal;380;0,9;422;Europa;ASSET MANAGEMENT;2020
 1;Eur - IFC;18/5/2020;;2020 - España - 2º CMS Innovation Finance Congress;FacePhi Biometría;Sponsors;Gold;Fernando Maquez;4200;0,9;4667;Europa;IFC;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;20/2/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;Ferrovial;Sponsors;Silver;Fernando Maquez;2744;0,9;3049;Europa;ASSET MANAGEMENT;2020
@@ -2211,7 +2211,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;30/11/2020;;2020 - España - 12º Congreso Nacional de Crédito;FIS Global Fidelity;Tickets;Ticket Entidad de Crédito;Karina Casal;120;0,9;133;Europa;Banking;2020
 5;Eur - España C&C;30/11/2020;;2020 - España - 12º Congreso Nacional de Crédito;Fomento Tecnología y Proyectos;Tickets;Ticket Entidad de Crédito;Karina Casal;120;0,9;133;Europa;Banking;2020
 9;Eur - SIC - SERVICING INMOBILIARIO;2/11/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;G70 Inversions;Tickets;Ticket Investor SIC;Karina Casal;180;0,9;200;Europa;ASSET MANAGEMENT;2020
-9;Eur - SIC - SERVICING INMOBILIARIO;9/3/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;GARSA - Gestores Administrativos Reunidos, S.A.;Sponsors;Silver;Fernando Maquez;3675;0,9;4083;Europa;ASSET MANAGEMENT;2020
+9;Eur - SIC - SERVICING INMOBILIARIO;9/3/2020;;2020 - España - 2º CMS Congreso Nacional de Servicing Inmobiliario;GARSA - Gestores Administrativos Reunidos S.A.;Sponsors;Silver;Fernando Maquez;3675;0,9;4083;Europa;ASSET MANAGEMENT;2020
 1;Eur - IFC;3/4/2020;;2020 - España - 2º CMS Innovation Finance Congress;Genesys España;Sponsors;Gold;Fernando Maquez;4200;0,9;4667;Europa;IFC;2020
 5;Eur - España C&C;2/11/2020;;2020 - España - 12º Congreso Nacional de Crédito;Gordillo Procuradores;Tickets;Ticket Early Bird CNC;Karina Casal;356;0,9;396;Europa;Banking;2020
 2;Eur - Recupero Judicial;8/6/2020;;2020 - España - 6º CMS Forum de Recuperación Judicial;Gordillo Procuradores;Tickets;Tickets Vendors;Karina Casal;536;0,9;596;Europa;Banking;2020
@@ -2406,7 +2406,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 22;Lat - Financial Innovation Argentina;13/9/2021;Pendiente de FC;Argentina - Business Revolution 2021;DASA + Fischbock Abogados + InfoCobranzas;Sponsor;Excellence;Tatiana Remaggi;60000;103;581;Latam;Banking;2021
 38;Lat - Mexico Insurtech Summit;13/9/2021;Pendiente de FC;México Insurtech Forum 2021;QUADIENT SWITZERLAND AG;Sponsor;Master;Rodrigo Rotunno;614338;103;5950;Latam;INSURTECH;2021
 22;Lat - Financial Innovation Argentina;13/9/2021;Pendiente de FC;Argentina - Business Revolution 2021;Biactiva;Sponsor;Premier;Rodrigo Rotunno;464625;103;4500;Latam;Banking;2021
-38;Lat - Mexico Insurtech Summit;14/9/2021;Pendiente de FC;México Insurtech Forum 2021;AC GLOBAL RISK, INC;Sponsor;Start-Up;Juan Dimattia;113575;103;1100;Latam;INSURTECH;2021
+38;Lat - Mexico Insurtech Summit;14/9/2021;Pendiente de FC;México Insurtech Forum 2021;AC GLOBAL RISK INC;Sponsor;Start-Up;Juan Dimattia;113575;103;1100;Latam;INSURTECH;2021
 24;Lat - Fin & Pay;15/9/2021;Pendiente de FC;Fin & Pay Latam Digital Forum 2021;AMI;Sponsor;Master;Ignacio Carballo;20604;5;4000;Brasil;Banking;2021
 24;Lat - Fin & Pay;15/9/2021;Pendiente de FC;Argentina - Fin & Pay 2021;AMI;Sponsor;Master;Ignacio Carballo;414000;104;4000;Latam;Banking;2021
 22;Lat - Financial Innovation Argentina;22/9/2021;Pendiente de FC;Argentina - Business Revolution 2021;Recsa Argentina;Sponsor;Master;Rodrigo Rotunno;345799;104;3333;Latam;Banking;2021
@@ -2477,7 +2477,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 27;Lat - Argentina Fintech Forum;31/12/2021;Pendiente de FC;Argentina - Fintech Forum 2021;Credicuotas;Sponsor;Expo;Cámara Argentina Fintech;120000;105;1143;Latam;FINTECH;2021
 27;Lat - Argentina Fintech Forum;31/12/2021;4479;Argentina - Fintech Forum 2021;Banco Provincia;Sponsor;Diamond;Tatiana Remaggi;454545;105;4329;Latam;FINTECH;2021
 33;Lat - Fintech Webinar;31/12/2021;4480;Fintech Webinar 2021;AMAZON;Sponsor;Grand;Cámara Argentina Fintech;445900;99;4515;Latam;FINTECH;2021
-35;Lat - Fintech Chile;31/12/2021;4481;Chile Fintech Forum 2021;CryptoMarket, Inc.;Sponsor;Premier;Camara de Fintech Chile;626038;97;6454;Latam;FINTECH;2021
+35;Lat - Fintech Chile;31/12/2021;4481;Chile Fintech Forum 2021;CryptoMarket Inc.;Sponsor;Premier;Camara de Fintech Chile;626038;97;6454;Latam;FINTECH;2021
 35;Lat - Fintech Chile;31/12/2021;4482;Chile Fintech Forum 2021;Floid;Sponsor;Premier;Camara de Fintech Chile;240754;97;2482;Latam;FINTECH;2021
 35;Lat - Fintech Chile;31/12/2021;4483;Chile Fintech Forum 2021;Sesocio.com;Sponsor;Premier;Camara de Fintech Chile;240754;97;2482;Latam;FINTECH;2021
 35;Lat - Fintech Chile;31/12/2021;4484;Chile Fintech Forum 2021;VERITRAN SA;Sponsor;Premier;Camara de Fintech Chile;240754;97;2482;Latam;FINTECH;2021
@@ -2798,7 +2798,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;PAYMEFY;Sponsor;Innovation;Ignacio Vilarroig;1000;0,9;1111;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Furio Capital / Mornese;Tickets;Tickets;Karina Casal;920;0,9;1022;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Consultora KP;Tickets;Tickets;Karina Casal;920;0,9;1022;Europa;Banking;2021
-5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;GESTION LEGAL DE PORTFOLIOS CRONO,S.L.;Tickets;Tickets;Karina Casal;1840;0,9;2044;Europa;Banking;2021
+5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;GESTION LEGAL DE PORTFOLIOS CRONOS.L.;Tickets;Tickets;Karina Casal;1840;0,9;2044;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Consultores e investigadores en administración;Tickets;Tickets;Karina Casal;2415;0,9;2683;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Bufet Casanovas;Tickets;Tickets;Fernando Maquez;1840;0,9;2044;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Leads For Finance;Tickets;Tickets;Fernando Maquez;140;0,9;156;Europa;Banking;2021
@@ -2821,16 +2821,16 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Resuelve tu Deuda;Tickets;Tickets;WEB;1035;0,9;1150;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;ESTUDIO HFA;Tickets;Tickets;WEB;2070;0,9;2300;Europa;Banking;2021
 5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Diprocura;Tickets;Tickets;Karina Casal;280;0,9;311;Europa;Banking;2021
-5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Gómez-Acebo & Pombo Abogados, S. L. P.;Tickets;Tickets;Karina Casal;196;0,9;218;Europa;Banking;2021
-11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;BANCO SABADELL, S.A.;Sponsor;Gold;Manel Abad;2500;0,9;2778;Europa;Banking;2021
+5;Eur - España C&C;5/1/2021;;2021 - España - 13º CNC;Gómez-Acebo & Pombo Abogados S. L. P.;Tickets;Tickets;Karina Casal;196;0,9;218;Europa;Banking;2021
+11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;BANCO SABADELL S.A.;Sponsor;Gold;Manel Abad;2500;0,9;2778;Europa;Banking;2021
 11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Activos Concursales - Eactivos.com;Sponsor;Gold;Manel Abad;3360;0,9;3733;Europa;Banking;2021
 11;Eur - B2B Collections;4/1/2021;;2021 - España - B2B Collections;Acuerdo - ETL Global;Sponsor;Gold;Fernando Maquez;3120;0,9;3467;Europa;Banking;2021
 11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Adarve Corporación Jurídica;Sponsor;Gold;Fernando Maquez;3120;0,9;3467;Europa;Banking;2021
 11;Eur - B2B Collections;17/2/2021;;2021 - España - B2B Collections;AEECF - Asociación Española de Empresas contra el Fraude;Sponsor;Apoyo;Fernando Maquez;1500;0,9;1667;Europa;Banking;2021
-11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsor;Silver;Fernando Maquez;2320;0,9;2578;Europa;Banking;2021
+11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsor;Silver;Fernando Maquez;2320;0,9;2578;Europa;Banking;2021
 11;Eur - B2B Collections;11/1/2021;;2021 - España - B2B Collections;CESCE (Seguro de Crédito);Tickets;Tickets;Karina Casal;304;0,9;338;Europa;Banking;2021
 11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Equifax Iberia;Sponsor;Gold;Ignacio Vilarroig;3360;0,9;3733;Europa;Banking;2021
-11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Experian España, S.L.U.;Sponsor;Gold;Ignacio Vilarroig;3600;0,9;4000;Europa;Banking;2021
+11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Experian España S.L.U.;Sponsor;Gold;Ignacio Vilarroig;3600;0,9;4000;Europa;Banking;2021
 11;Eur - B2B Collections;14/1/2021;;2021 - España - B2B Collections;Gordillo Procuradores;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;Banking;2021
 11;Eur - B2B Collections;1/1/2021;;2021 - España - B2B Collections;Grupo Incofisa;Sponsor;Gold;Fernando Maquez;2900;0,9;3222;Europa;Banking;2021
 11;Eur - B2B Collections;3/3/2021;;2021 - España - B2B Collections;INDRA - Minsait;Tickets;Tickets;Karina Casal;380;0,9;422;Europa;Banking;2021
@@ -2850,7 +2850,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 1;Eur - IFC;4/1/2021;;2021 - España - IFC;ARCOPAY - Afterbanks;Sponsor;Gold;Fernando Maquez;3400;0,9;3778;Europa;IFC;2021
 1;Eur - IFC;8/3/2021;;2021 - España - IFC;Detectys;Sponsor;Silver;Fernando Maquez;2320;0,9;2578;Europa;IFC;2021
 1;Eur - IFC;5/1/2021;;2021 - España - IFC;Equifax Iberia;Sponsor;Platinum;Ignacio Vilarroig;4410;0,9;4900;Europa;IFC;2021
-1;Eur - IFC;4/1/2021;;2021 - España - IFC;Experian España, S.L.U.;Sponsor;Gold;Ignacio Vilarroig;3600;0,9;4000;Europa;IFC;2021
+1;Eur - IFC;4/1/2021;;2021 - España - IFC;Experian España S.L.U.;Sponsor;Gold;Ignacio Vilarroig;3600;0,9;4000;Europa;IFC;2021
 1;Eur - IFC;3/3/2021;;2021 - España - IFC;Google España;Sponsor;Gold Sponsor;Patricia Ramírez;3840;0,9;4267;Europa;IFC;2021
 1;Eur - IFC;5/3/2021;;2021 - España - IFC;Grupo CMC (Cognicase Management Consulting) - DatKnoSys;Sponsor;Silver Sponsor;Patricia Ramírez;1950;0,9;2167;Europa;IFC;2021
 1;Eur - IFC;28/1/2021;;2021 - España - IFC;Grupo Sabio;Sponsor;Gold;Fernando Maquez;1840;0,9;2044;Europa;IFC;2021
@@ -2858,7 +2858,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 1;Eur - IFC;11/3/2021;;2021 - España - IFC;Infobip;Sponsor;Platinum sponsor;Patricia Ramírez;4557;0,9;5063;Europa;IFC;2021
 1;Eur - IFC;5/1/2021;;2021 - España - IFC;Kineox - Liberto Group - Gemini;Sponsor;Gold;Ignacio Vilarroig;3600;0,9;4000;Europa;IFC;2021
 1;Eur - IFC;8/1/2021;;2021 - España - IFC;LexisNexis Risk Solutions - Europa;Sponsor;Gold;Paola Ortega;3600;0,9;4000;Europa;IFC;2021
-1;Eur - IFC;26/2/2021;;2021 - España - IFC;Lleida.net - Lleida Networks Serveis Telematics, S.A.;Sponsor;GOLD;Fernando Maquez;4320;0,9;4800;Europa;IFC;2021
+1;Eur - IFC;26/2/2021;;2021 - España - IFC;Lleida.net - Lleida Networks Serveis Telematics S.A.;Sponsor;GOLD;Fernando Maquez;4320;0,9;4800;Europa;IFC;2021
 1;Eur - IFC;27/2/2021;;2021 - España - IFC;MITEK SYSTEMS;Sponsor;Gold;Patricia Ramírez;3840;0,9;4267;Europa;IFC;2021
 1;Eur - IFC;8/1/2021;;2021 - España - IFC;nCino;Sponsor;Platinum;Paola Ortega;5145;0,9;5717;Europa;IFC;2021
 1;Eur - IFC;4/3/2021;;2021 - España - IFC;Tecalis;Sponsor;GOLD;Patricia Ramírez;2610;0,9;2900;Europa;IFC;2021
@@ -2878,7 +2878,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 2;Eur - Recupero Judicial;8/1/2021;;2021 - España - Legal Forum;AXACTOR;Sponsor;DIAMOND;Ignacio Vilarroig;6720;0,9;7467;Europa;Banking;2021
 2;Eur - Recupero Judicial;17/5/2021;;2021 - España - Legal Forum;AXESOR - Experian;Tickets;Tickets;Karina Casal;798;0,9;887;Europa;Banking;2021
 2;Eur - Recupero Judicial;13/5/2021;;2021 - España - Legal Forum;Bufete Casanovas;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;Banking;2021
-2;Eur - Recupero Judicial;4/1/2021;;2021 - España - Legal Forum;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsor;Silver;Fernando Maquez;2320;0,9;2578;Europa;Banking;2021
+2;Eur - Recupero Judicial;4/1/2021;;2021 - España - Legal Forum;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsor;Silver;Fernando Maquez;2320;0,9;2578;Europa;Banking;2021
 2;Eur - Recupero Judicial;4/1/2021;;2021 - España - Legal Forum;Central Jurídica Ley;Sponsor;Silver;Fernando Maquez;2000;0,9;2222;Europa;Banking;2021
 2;Eur - Recupero Judicial;11/5/2021;;2021 - España - Legal Forum;CESCE (Seguro de Crédito);Tickets;Tickets;Karina Casal;608;0,9;676;Europa;Banking;2021
 2;Eur - Recupero Judicial;19/5/2021;;2021 - España - Legal Forum;Colomer Ventallo;Tickets;Tickets;Karina Casal;380;0,9;422;Europa;Banking;2021
@@ -2889,7 +2889,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 2;Eur - Recupero Judicial;6/5/2021;;2021 - España - Legal Forum;Gordillo Procuradores;Sponsor;GOLD;Paola Ortega;4080;0,9;4533;Europa;Banking;2021
 2;Eur - Recupero Judicial;9/2/2021;;2021 - España - Legal Forum;Grupo Avanza - Activa Legal;Sponsor;Gold;Fernando Maquez;3360;0,9;3733;Europa;Banking;2021
 2;Eur - Recupero Judicial;17/5/2021;;2021 - España - Legal Forum;Grupo Gispert;Tickets;Tickets;Karina Casal;912;0,9;1013;Europa;Banking;2021
-2;Eur - Recupero Judicial;4/1/2021;;2021 - España - Legal Forum;IGGSAD Abogados, Internation;Sponsor;Silver;Fernando Maquez;2610;0,9;2900;Europa;Banking;2021
+2;Eur - Recupero Judicial;4/1/2021;;2021 - España - Legal Forum;IGGSAD Abogados Internation;Sponsor;Silver;Fernando Maquez;2610;0,9;2900;Europa;Banking;2021
 2;Eur - Recupero Judicial;8/1/2021;;2021 - España - Legal Forum;Intrum España;Sponsor;DIAMOND;Ignacio Vilarroig;6825;0,9;7583;Europa;Banking;2021
 2;Eur - Recupero Judicial;5/1/2021;;2021 - España - Legal Forum;Ka Recovering;Sponsor;PLATINUM;Fernando Maquez;3600;0,9;4000;Europa;Banking;2021
 2;Eur - Recupero Judicial;5/1/2021;;2021 - España - Legal Forum;KRUK Spain;Sponsor;Gold;Fernando Maquez;2520;0,9;2800;Europa;Banking;2021
@@ -2909,10 +2909,10 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;AXACTOR;Sponsor;Diamond;Ignacio Vilarroig;8448;0,9;9387;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;AXESOR - Experian;Sponsor;Silver;Fernando Maquez;2880;0,9;3200;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);20/1/2021;;2021 - España - NPL ES;BJS Legal Services;Sponsor;Silver;Fernando Maquez;2880;0,9;3200;Europa;ASSET MANAGEMENT;2021
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;C&P Abogados - Campos & Pintado Abogados, S.L.;Sponsor;Silver;Fernando Maquez;2880;0,9;3200;Europa;ASSET MANAGEMENT;2021
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;C&P Abogados - Campos & Pintado Abogados S.L.;Sponsor;Silver;Fernando Maquez;2880;0,9;3200;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);4/1/2021;;2021 - España - NPL ES;Cabot Financial España;Sponsor;Gold;Fernando Maquez;4800;0,9;5333;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;Central Jurídica Ley;Sponsor;Silver;Fernando Maquez;2500;0,9;2778;Europa;ASSET MANAGEMENT;2021
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);2/3/2021;;2021 - España - NPL ES;Codeactivos, S.A.;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);2/3/2021;;2021 - España - NPL ES;Codeactivos S.A.;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);13/4/2021;;2021 - España - NPL ES;COLECTA - KOBSA;Tickets;Tickets;Karina Casal;380;0,9;422;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);11/1/2021;;2021 - España - NPL ES;Debex España;Sponsor;Marketplace;Paola Ortega;4900;0,9;5444;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;Detectys;Sponsor;Silver;Fernando Maquez;2880;0,9;3200;Europa;ASSET MANAGEMENT;2021
@@ -2924,9 +2924,9 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);12/4/2021;;2021 - España - NPL ES;Gordillo Procuradores;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);30/3/2021;;2021 - España - NPL ES;Grupo Adgest;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;Grupo Konecta Spain;Sponsor;Silver;Fernando Maquez;2520;0,9;2800;Europa;ASSET MANAGEMENT;2021
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);4/1/2021;;2021 - España - NPL ES;Hipoges Iberia, SL (Spain);Sponsor;Gold;Paola Ortega;3000;0,9;3333;Europa;ASSET MANAGEMENT;2021
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);4/1/2021;;2021 - España - NPL ES;Hipoges Iberia SL (Spain);Sponsor;Gold;Paola Ortega;3000;0,9;3333;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);29/1/2021;;2021 - España - NPL ES;Ilusiak;Sponsor;Silver;Paola Ortega;2000;0,9;2222;Europa;ASSET MANAGEMENT;2021
-7;Eur - NPL IBERIAN FORUM (ESPAÑA);12/4/2021;;2021 - España - NPL ES;Inerttia Business Solutions, S.L.;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
+7;Eur - NPL IBERIAN FORUM (ESPAÑA);12/4/2021;;2021 - España - NPL ES;Inerttia Business Solutions S.L.;Tickets;Tickets;Karina Casal;304;0,9;338;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;Intrum España;Sponsor;Diamond;Ignacio Vilarroig;7920;0,9;8800;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);1/1/2021;;2021 - España - NPL ES;KRUK Spain;Sponsor;Gold;Fernando Maquez;3600;0,9;4000;Europa;ASSET MANAGEMENT;2021
 7;Eur - NPL IBERIAN FORUM (ESPAÑA);15/2/2021;;2021 - España - NPL ES;Lexer España;Sponsor;GOLD;Fernando Maquez;3900;0,9;4333;Europa;ASSET MANAGEMENT;2021
@@ -2943,7 +2943,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 15;Eur - BPR RRHH;15/2/2021;;2021 - España - People & Business Revolution Week;Einzelnet;Tickets;Tickets;Karina Casal;30;0,9;33;Europa;RRHH;2021
 15;Eur - BPR RRHH;2/3/2021;;2021 - España - People & Business Revolution Week;EOS Spain;Sponsor;Platinum;Ignacio Vilarroig;4500;0,9;5000;Europa;RRHH;2021
 15;Eur - BPR RRHH;15/3/2021;;2021 - España - People & Business Revolution Week;Eurofarma;Tickets;Tickets;Karina Casal;360;0,9;400;Europa;RRHH;2021
-15;Eur - BPR RRHH;2/2/2021;;2021 - España - People & Business Revolution Week;Everis Spain, S.L.U.;Tickets;Tickets;Karina Casal;30;0,9;33;Europa;RRHH;2021
+15;Eur - BPR RRHH;2/2/2021;;2021 - España - People & Business Revolution Week;Everis Spain S.L.U.;Tickets;Tickets;Karina Casal;30;0,9;33;Europa;RRHH;2021
 15;Eur - BPR RRHH;1/1/2021;;2021 - España - People & Business Revolution Week;EVO Banco;Sponsor;GOLD;Sofia Sundblad;2400;0,9;2667;Europa;RRHH;2021
 15;Eur - BPR RRHH;11/1/2021;;2021 - España - People & Business Revolution Week;FonYou;Tickets;Tickets;Karina Casal;96;0,9;107;Europa;RRHH;2021
 15;Eur - BPR RRHH;16/2/2021;;2021 - España - People & Business Revolution Week;GAE COMUNIDADES SUR;Tickets;Tickets;Karina Casal;24;0,9;27;Europa;RRHH;2021
@@ -2986,7 +2986,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 9;Eur - SIC - SERVICING INMOBILIARIO;14/9/2021;;2021 - España - SIC;EMC Software Jurídico;Sponsor;SILVER;Fernando Maquez;2700;0,9;3000;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;14/1/2021;;2021 - España - SIC;Ferrovial;Sponsor;PLATINUM;Fernando Maquez;7920;0,9;8800;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;1/2/2021;;2021 - España - SIC;Finsolutia S.A.;Sponsor;GOLD;Fernando Maquez;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;GARSA - Gestores Administrativos Reunidos, S.A.;Sponsor;GOLD;Fernando Maquez;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;GARSA - Gestores Administrativos Reunidos S.A.;Sponsor;GOLD;Fernando Maquez;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;5/9/2021;;2021 - España - SIC;Gedesia;Sponsor;SILVER;Paola Ortega;4860;0,9;5400;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;8/1/2021;;2021 - España - SIC;Gordillo Procuradores;Sponsor;GOLD;Paola Ortega;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;4/1/2021;;2021 - España - SIC;Grupo Adgest;Sponsor;GOLD;Fernando Maquez;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
@@ -2996,8 +2996,8 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;Grupo Konecta Spain;Sponsor;LANYARDS;Fernando Maquez;3600;0,9;4000;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;19/8/2021;;2021 - España - SIC;Grupo RBS;Sponsor;GOLD;Paola Ortega;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;8/1/2021;;2021 - España - SIC;Grupo Soluzone - Gestión de Activos;Sponsor;PLATINUM;Fernando Maquez;7980;0,9;8867;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;7/1/2021;;2021 - España - SIC;Hipoges Iberia, SL (Spain);Sponsor;GOLD;Paola Ortega;4400;0,9;4889;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;22/4/2021;;2021 - España - SIC;Inerttia Business Solutions, S.L.;Sponsor;SILVER;Paola Ortega;4320;0,9;4800;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;7/1/2021;;2021 - España - SIC;Hipoges Iberia SL (Spain);Sponsor;GOLD;Paola Ortega;4400;0,9;4889;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;22/4/2021;;2021 - España - SIC;Inerttia Business Solutions S.L.;Sponsor;SILVER;Paola Ortega;4320;0,9;4800;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;Intralinks;Sponsor;GOLD;Fernando Maquez;6600;0,9;7333;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;4/10/2021;;2021 - España - SIC;Ka Recovering;Sponsor;SILVER;Fernando Maquez;2200;0,9;2444;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;MADISON MK - Grupo Telecyl;Sponsor;Silver;Fernando Maquez;4000;0,9;4444;Europa;ASSET MANAGEMENT;2021
@@ -3021,21 +3021,21 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 9;Eur - SIC - SERVICING INMOBILIARIO;26/8/2021;;2021 - España - SIC;Todoser;Sponsor;COFFEE BREAK;Paola Ortega;3500;0,9;3889;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;2/8/2021;;2021 - España - SIC;Urbanitae;Sponsor;GOLD;Paola Ortega;3600;0,9;4000;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;8/1/2021;;2021 - España - SIC;Valmesa - Valoraciones Mediterraneo S.A.;Sponsor;GOLD;Fernando Maquez;6160;0,9;6844;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;8/1/2021;;2021 - España - SIC;AXESOR, CONOCER PARA DECIDIR S.A.;Sponsor;Stand;Paola Ortega;408;0,9;453;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;8/1/2021;;2021 - España - SIC;AXESOR CONOCER PARA DECIDIR S.A.;Sponsor;Stand;Paola Ortega;408;0,9;453;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;5/1/2021;;2021 - España - SIC;Wallner Group;Sponsor;Gold;Fernando Maquez;7040;0,9;7822;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;13/9/2021;;2021 - España - SIC;ANJUMA GESTIONES INMOBILIARIAS;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;SERVINFORM, S.A;Tickets;Tickets;Karina Casal;1470;0,9;1633;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;22/9/2021;;2021 - España - SIC;SERVINFORM, S.A;Tickets;Tickets;Karina Casal;336;0,9;373;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;SERVINFORM S.A;Tickets;Tickets;Karina Casal;1470;0,9;1633;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;22/9/2021;;2021 - España - SIC;SERVINFORM S.A;Tickets;Tickets;Karina Casal;336;0,9;373;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Herding Cats 2015 SLU;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Gedesia / Cena;Tickets;Tickets;Karina Casal;196;0,9;218;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;ACASA;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;TITULIZACIÓN DE ACTIVOS, SGFT, SA;Tickets;Tickets;Karina Casal;384;0,9;427;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;TITULIZACIÓN DE ACTIVOS SGFT SA;Tickets;Tickets;Karina Casal;384;0,9;427;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;GRUPO CONTROL EMPRESA SEGURIDAD;Tickets;Tickets;Karina Casal;1680;0,9;1867;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;GRUPO CONTROL EMPRESA SEGURIDAD;Tickets;Tickets;Karina Casal;448;0,9;498;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Whitestar Asset Solutions;Tickets;Tickets;Karina Casal;1050;0,9;1167;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;SERVIHOGAR GESTION 24H SL;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Grupo Albión Asesores de Comunicación, S.A.;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
-9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Gestoría Montalvo, SLP;Tickets;Tickets;Karina Casal;1680;0,9;1867;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Grupo Albión Asesores de Comunicación S.A.;Tickets;Tickets;Karina Casal;840;0,9;933;Europa;ASSET MANAGEMENT;2021
+9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Gestoría Montalvo SLP;Tickets;Tickets;Karina Casal;1680;0,9;1867;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;HAYA REAL ESTATE;Tickets;Tickets;Karina Casal;2205;0,9;2450;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Copernicus;Tickets;Tickets;Karina Casal;315;0,9;350;Europa;ASSET MANAGEMENT;2021
 9;Eur - SIC - SERVICING INMOBILIARIO;21/9/2021;;2021 - España - SIC;Axesor;Tickets;Tickets;Karina Casal;1680;0,9;1867;Europa;ASSET MANAGEMENT;2021
@@ -3070,7 +3070,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 8;Eur - NPL + SIC Forum Lisboa;4/2/2021;;2021 - Portugal - NPL & REO'S;Vieira de Almeida - VdA Legal Partners;Sponsor;PLATINUM;Fernando Maquez;4875;0,9;5417;Europa;ASSET MANAGEMENT;2021
 8;Eur - NPL + SIC Forum Lisboa;4/1/2021;;2021 - Portugal - NPL & REO'S;VSOFT SA;Sponsor;Platinum;Fernando Maquez;4500;0,9;5000;Europa;ASSET MANAGEMENT;2021
 8;Eur - NPL + SIC Forum Lisboa;4/1/2021;;2021 - Portugal - NPL & REO'S;VU Security España;Sponsor;GOLD;Fernando Maquez;2000;0,9;2222;Europa;ASSET MANAGEMENT;2021
-8;Eur - NPL + SIC Forum Lisboa;31/3/2021;;2021 - Portugal - NPL & REO'S;WHITESTAR – Servicing Company, S.A;Sponsor;SILVER;Fernando Maquez;1750;0,9;1944;Europa;ASSET MANAGEMENT;2021
+8;Eur - NPL + SIC Forum Lisboa;31/3/2021;;2021 - Portugal - NPL & REO'S;WHITESTAR – Servicing Company S.A;Sponsor;SILVER;Fernando Maquez;1750;0,9;1944;Europa;ASSET MANAGEMENT;2021
 8;Eur - NPL + SIC Forum Lisboa;7/1/2021;;2021 - Portugal - NPL & REO'S;Widerproperty;Sponsor;GOLD;Paola Ortega;2100;0,9;2333;Europa;ASSET MANAGEMENT;2021
 8;Eur - NPL + SIC Forum Lisboa;19/7/2021;;2021 - Portugal - NPL & REO'S;Wolters Kluwer - Kleos;Tickets;Tickets;Karina Casal;280;0,9;311;Europa;ASSET MANAGEMENT;2021
 8;Eur - NPL + SIC Forum Lisboa;25/1/2021;;2021 - Portugal - NPL & REO'S;MULTIGESTION;Sponsor;Gold;Fernando Maquez;3150;0,9;3500;Europa;ASSET MANAGEMENT;2021
@@ -3148,7 +3148,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 22;Lat - Financial Innovation Argentina;25/10/2022;NCA0000200000240;Argentina - Business Revolution 2022;MR RECUPERO CREDITICIO SRL;Sponsor;Platinum;Rodrigo Rotunno;-83250;138,75;-600;Latam;Banking;2022
 22;Lat - Financial Innovation Argentina;25/4/2022;4650;Argentina - Business Revolution 2022;ERNESTO CARVALHO;Pases;Asistentes // Módulo Simple;Elane Cortez;17208;119,5;144;Latam;Banking;2022
 22;Lat - Financial Innovation Argentina;1/8/2022;28;Argentina - Business Revolution 2022;FEEDZAI;Sponsor;Gold;Rodrigo Rotunno;385000;140;2750;Latam;Banking;2022
-22;Lat - Financial Innovation Argentina;25/8/2022;33;Argentina - Business Revolution 2022;GRUPO XTRA VEINTE, SA DE CV (EQUALITY);Sponsor;Gold;Tatiana Remaggi;396000;144;2750;Latam;Banking;2022
+22;Lat - Financial Innovation Argentina;25/8/2022;33;Argentina - Business Revolution 2022;GRUPO XTRA VEINTE SA DE CV (EQUALITY);Sponsor;Gold;Tatiana Remaggi;396000;144;2750;Latam;Banking;2022
 36;Lat - Credit Latam Show;1/12/2022;PENDIENTE;Argentina - Credit Latam Show 2022;FEEDZAI;Sponsor;Excellence;Rodrigo Rotunno;320375;116,5;2750;Latam;Banking;2022
 36;Lat - Credit Latam Show;1/12/2022;PENDIENTE;Argentina - Credit Latam Show 2022;PREX;Sponsor;Premier;Tatiana Remaggi;715000;130;5500;Latam;Banking;2022
 36;Lat - Credit Latam Show;1/12/2022;PENDIENTE;Argentina - Credit Latam Show 2022;Metamap;Sponsor;Master;Rodrigo Rotunno;715000;130;5625;Latam;Banking;2022
@@ -3450,7 +3450,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 42;Bra - Financial Innovation Brasil;18/11/2022;4892;Brasil - Business Revolution 2022;ROBSON PORTO MARQUES;Sponsor;Expo;Online;2500;5,35;467;Brasil;Banking;2022
 42;Bra - Financial Innovation Brasil;1/12/2022;4895;Brasil - Business Revolution 2022;INTERVALOR;Sponsor;Cotas de Apoyos/Welcome Banner;Madleine Sprocatti;14400;5,35;2692;Brasil;Banking;2022
 42;Bra - Financial Innovation Brasil;1/12/2022;4896;Brasil - Business Revolution 2022;INTERVALOR;Sponsor;Cotas de Apoyos/Welcome Banner;Madleine Sprocatti;14400;5,35;2692;Brasil;Banking;2022
-42;Bra - Financial Innovation Brasil;6/12/2022;4899;Brasil - Business Revolution 2022;B3 S.A. – BRASIL, BOLSA, BALCÃO,;Sponsor;Platinum;Madleine Sprocatti;80000;5,35;14953;Brasil;Banking;2022
+42;Bra - Financial Innovation Brasil;6/12/2022;4899;Brasil - Business Revolution 2022;B3 S.A. – BRASIL BOLSA BALCÃO;Sponsor;Platinum;Madleine Sprocatti;80000;5,35;14953;Brasil;Banking;2022
 42;Bra - Financial Innovation Brasil;19/10/2022;45;Brasil - Business Revolution 2022;STERE;Sponsor;Cotas de Apoyos/Welcome Banner;Camila Boueri;16500;5,35;3084;Brasil;Banking;2022
 42;Bra - Financial Innovation Brasil;7/11/2022;46;Brasil - Business Revolution 2022;MAMBU;Sponsor;Cotas de Apoyos/Welcome Banner;Camila Boueri;6000;5,35;1121;Brasil;Banking;2022
 42;Bra - Financial Innovation Brasil;1/12/2022;PENDIENTE;Brasil - Business Revolution 2022;ANA TURBAY;Pases;Pases;Madleine Sprocatti;6412;5,35;1199;Brasil;Banking;2022
@@ -3728,7 +3728,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Mambu Tech BV ;Pases;Pases;Karina Casal;1610;0,95;1695;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Legal Pigeon;Pases;Pases;Karina Casal;920;0,95;968;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;SERIMAG MEDIA;Pases;Pases;Karina Casal;805;0,95;847;Europa;Banking;2022
-5;Eur - España C&C;1/12/2022;;España - CNC 2022;CALFIN218, S.L.;Pases;Pases;Karina Casal;1150;0,95;1211;Europa;Banking;2022
+5;Eur - España C&C;1/12/2022;;España - CNC 2022;CALFIN218 S.L.;Pases;Pases;Karina Casal;1150;0,95;1211;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;ISGF;Pases;Pases;Karina Casal;448;0,95;472;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Formax;Pases;Pases;Karina Casal;805;0,95;847;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Furio Capital;Pases;Pases;Karina Casal;448;0,95;472;Europa;Banking;2022
@@ -3771,7 +3771,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Ka Recovering;Sponsor;Gold;Fernando Maquez;7800;0,95;8211;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Debitos;Sponsor;Innovation;Paola Ortega;3000;0,95;3158;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Vozitel;Sponsor;Platinum;Fernando Maquez;9000;0,95;9474;Europa;Banking;2022
-5;Eur - España C&C;1/12/2022;;España - CNC 2022;Sayes (Soluciones, analisis y estrategias S.L);Sponsor;Gold;Fernando Maquez;9600;0,95;10105;Europa;Banking;2022
+5;Eur - España C&C;1/12/2022;;España - CNC 2022;Sayes (Soluciones analisis y estrategias S.L);Sponsor;Gold;Fernando Maquez;9600;0,95;10105;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Qualco;Sponsor;Gold;Paola Ortega;9600;0,95;10105;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Gesico;Sponsor;Platinum;Fernando Maquez;14000;0,95;14737;Europa;Banking;2022
 5;Eur - España C&C;1/12/2022;;España - CNC 2022;Grupo Konecta (Konecta BTO);Sponsor;Cintas;Fernando Maquez;4500;0,95;4737;Europa;Banking;2022
@@ -3880,12 +3880,12 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Legal Pigeon;Pases;Pases;Karina Casal;992;0,95;1044;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Axesor BPO;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;CronoLegal ;Pases;Pases;Karina Casal;1240;0,95;1305;Europa;Banking;2022
-2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;ANTELUMEN MARKET, S.L.;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
+2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;ANTELUMEN MARKET S.L.;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;BUFET MIRALBELL GUERIN SL;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Bufet Casa Nova ;Pases;Pases;Karina Casal;496;0,95;522;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Castillo & Campos procura. S.L.P.;Pases;Pases;Karina Casal;1240;0,95;1305;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Tarsso;Pases;Pases;Karina Casal;868;0,95;914;Europa;Banking;2022
-2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;KEYFACTOR, S.L.;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
+2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;KEYFACTOR S.L.;Pases;Pases;Karina Casal;620;0,95;653;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;IGGSAD;Sponsor;Silver;Fernando Maquez;3825;0,95;4026;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;Egara;Sponsor;Silver;Fernando Maquez;3150;0,95;3316;Europa;Banking;2022
 2;Eur - Recupero Judicial;1/12/2022;;España - Legal Forum 2022;EOS Spain;Sponsor;Gold;Fernando Maquez;4500;0,95;4737;Europa;Banking;2022
@@ -4065,7 +4065,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 38;Lat - Mexico Insurtech Summit;12/8/2022;Partner-8;México - Insurtech 2022;INTERTEC;Pases;Pases;Natalia Synay;250;1;250;Latam;INSURTECH;2022
 38;Lat - Mexico Insurtech Summit;16/8/2022;Partner - 9;México - Insurtech 2022;Ariel Alejandro Páramo Santamaría/ Samsara;Pases;Pases;Natalia Synay;400;1;400;Latam;INSURTECH;2022
 38;Lat - Mexico Insurtech Summit;18/8/2022;Partner - 12;México - Insurtech 2022;CARLOS ALBERTO / PAGER;Pases;Pases;Natalia Synay;250;1;250;Latam;INSURTECH;2022
-38;Lat - Mexico Insurtech Summit;25/8/2022;Partner - 15;México - Insurtech 2022;Blac Solutions, S.A. de C.V.;Pases;Pases;Nathalie Garrigue;750;1;750;Latam;INSURTECH;2022
+38;Lat - Mexico Insurtech Summit;25/8/2022;Partner - 15;México - Insurtech 2022;Blac Solutions S.A. de C.V.;Pases;Pases;Nathalie Garrigue;750;1;750;Latam;INSURTECH;2022
 38;Lat - Mexico Insurtech Summit;1/12/2022;Partner - 18;México - Insurtech 2022;Finneiro Connect;Pases;Pases;Natalia Synay;400;1;400;Latam;INSURTECH;2022
 38;Lat - Mexico Insurtech Summit;10/8/2022;30;México - Insurtech 2022;MITEK;Pases;Pases;Natalia Synay;1000;1;1000;Latam;INSURTECH;2022
 38;Lat - Mexico Insurtech Summit;30/8/2022;36;México - Insurtech 2022;CLAIRSPEED;Pases;Pases;Natalia Synay;400;1;400;Latam;INSURTECH;2022
@@ -4106,7 +4106,7 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 30;Lat - PBP Peru;4/10/2022;EB01-13;Peru - PBP 2022;AFP CRECER;Pases;Paquete Ganador;Tatiana Remaggi;7020;3,9;1800;Latam;Premios Best;2022
 30;Lat - PBP Peru;4/10/2022;EB01-14;Peru - PBP 2022;PROSALUD MUTUUS SC DE RL;Pases;Paquete Ganador;Tatiana Remaggi;5070;3,9;1300;Latam;Premios Best;2022
 30;Lat - PBP Peru;4/10/2022;EB01-15;Peru - PBP 2022;Tutenlabs;Pases;Paquete Ganador;Tatiana Remaggi;7020;3,9;1800;Latam;Premios Best;2022
-30;Lat - PBP Peru;4/10/2022;EB01-16;Peru - PBP 2022;GRUPO XTRA VEINTE, S.A. DE CV (EQUALITY);Pases;Paquete Ganador;Tatiana Remaggi;15210;3,9;3900;Latam;Premios Best;2022
+30;Lat - PBP Peru;4/10/2022;EB01-16;Peru - PBP 2022;GRUPO XTRA VEINTE S.A. DE CV (EQUALITY);Pases;Paquete Ganador;Tatiana Remaggi;15210;3,9;3900;Latam;Premios Best;2022
 30;Lat - PBP Peru;4/10/2022;E001-125;Peru - PBP 2022;MOK PERU SAC;Pases;Paquete Ganador;Tatiana Remaggi;5070;3,9;1300;Latam;Premios Best;2022
 30;Lat - PBP Peru;4/10/2022;E001-126;Peru - PBP 2022;BANCO PINCHINCHA;Sponsor;Apoyo Comercial;Tatiana Remaggi;3510;3,9;900;Latam;Premios Best;2022
 30;Lat - PBP Peru;4/10/2022;E001-126 B;Peru - PBP 2022;BANCO PINCHINCHA;Sponsor;Apoyo Comercial;Tatiana Remaggi;3510;3,9;900;Latam;Premios Best;2022
@@ -4121,14 +4121,14 @@ Id_Eventos;Evento_Final;Fecha;Numero_Factura;Evento;Cliente;Productos;Categoria;
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Uria;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Parvalorem;Pases;Pases;Karina Casal;434;0,95;457;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Prime Yield;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
-8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Sociedade Rebelo de Sousa & Advogados Associados, SP, RL;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
-8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;PLMJ ADVOGADOS, SP.RL.;Pases;Pases;Karina Casal;992;0,95;1044;Europa;ASSET MANAGEMENT;2022
-8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Caiado Guerreiro & Associados - Sociedade de Advogados, RL;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
-8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;SERVESCO - Serviços Esco-Expansión Portugal,;Pases;Pases;Karina Casal;434;0,95;457;Europa;ASSET MANAGEMENT;2022
+8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Sociedade Rebelo de Sousa & Advogados Associados SP RL;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
+8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;PLMJ ADVOGADOS SP.RL.;Pases;Pases;Karina Casal;992;0,95;1044;Europa;ASSET MANAGEMENT;2022
+8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Caiado Guerreiro & Associados - Sociedade de Advogados RL;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
+8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;SERVESCO - Serviços Esco-Expansión Portugal;Pases;Pases;Karina Casal;434;0,95;457;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Indebet;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Cushman & Wakefield;Pases;Pases;Karina Casal;496;0,95;522;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Reviva Capital;Pases;Pases;Karina Casal;2325;0,95;2447;Europa;ASSET MANAGEMENT;2022
-8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Shirish & Ferreira, Lda;Pases;Pases;Karina Casal;310;0,95;326;Europa;ASSET MANAGEMENT;2022
+8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Shirish & Ferreira Lda;Pases;Pases;Karina Casal;310;0,95;326;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Receeve;Sponsor;Platinum;Paola Ortega;7000;0,95;7368;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Servdebt;Sponsor;Gold;Paola Ortega;4200;0,95;4421;Europa;ASSET MANAGEMENT;2022
 8;Eur - NPL + SIC Forum Lisboa;1/12/2022;;Portugal - NPL 2022;Cabot;Sponsor;Gold;Fernando Maquez;4500;0,95;4737;Europa;ASSET MANAGEMENT;2022
